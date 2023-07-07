@@ -1,6 +1,4 @@
-# Convolutional  Neural Networks for the automated recongition of plant leaves images
-
-## Convolutional Neural Networks for the automated recognition of cats and dogs images
+## Convolutional  Neural Networks for the automated recongition of plant leaves images
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmartamagna/Machine-Learning-Project-CatsDogs/blob/main/Project_CatsDogs_CNNs.ipynb)
 
 ### Student information
