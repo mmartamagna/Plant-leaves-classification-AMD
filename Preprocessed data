@@ -1,6 +1,6 @@
-**RUN THE CNN MODELS WITHOUT DOWNLOADING THE IMAGES**
+r**RUN THE CNN MODELS WITHOUT DOWNLOADING THE IMAGES**
 
-If you want to train the CNN without downloading the images from Kaggle, I made available on Google Drive the Numpy arrays containing the already pre-processed images (train, test, validation) and the respective labels.
+If you want to train the CNN without downloading the images from Kaggle, I made available on Google Drive shared folder (https://drive.google.com/drive/folders/1trl59kkbsqYOL4ZcQ3ZY-36vv_xzXKxR?usp=sharing) the Numpy arrays containing the already pre-processed images (train, test, validation) and the respective labels.
 The images are already resized (128x128) and normalized (/255.0). 
 
 #connect to google drive
