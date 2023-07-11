@@ -20,5 +20,5 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 
 ### Composition of the repository
 - Project Plant Leaves CNNs.jpynb: the file containing libraries, data download, data preprocessing, CNNs architecture, CNNs training and test, and evaluation metrics.
-- Report_pPlantLeaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
-- Preprocessed data: instructions to avoid the preprocessing phase of data and directly download from my shared folder the data in Numpy arrays.
+- Report_PlantLeaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
+- Preprocessed data: instructions to avoid the preprocessing phase of data and directly download from my shared folder the data in Numpy arrays (https://drive.google.com/drive/folders/1trl59kkbsqYOL4ZcQ3ZY-36vv_xzXKxR?usp=sharing).
