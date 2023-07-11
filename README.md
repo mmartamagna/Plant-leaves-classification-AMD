@@ -21,3 +21,4 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 ### Composition of the repository
 - Project Plant Leaves CNNs.jpynb: file containing data preprocessing and CNNs execution.
 - Report containing more theoretical details about the implemented CNNs and the relative results.
+- Preprocessed data: instructions to avoid the preprocessing phase
