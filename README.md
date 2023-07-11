@@ -19,6 +19,6 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 * OpenCV
 
 ### Composition of the repository
-- Project Plant Leaves CNNs.jpynb: file containing data preprocessing and CNNs execution.
-- Report containing more theoretical details about the implemented CNNs and the relative results.
+- Project Plant Leaves CNNs.jpynb: the file containing libraries, data download, data preprocessing, CNNs architecture, CNNs training and test, evaluation metrics.
+- Report containing more theoretical details about the implemented CNNs and the comparable results.
 - Preprocessed data: instructions to avoid the preprocessing phase
