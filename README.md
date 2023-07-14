@@ -1,5 +1,4 @@
 ## Convolutional  Neural Networks for the automated recognition of plant leaves images
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmartamagna/Plant-leaves-classification-AMD/blob/main/Final_project_plant_leaves.ipynb)
 
 ### Student information
 - Marta Magnani (961071)
@@ -19,5 +18,5 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 * OpenCV
 
 ### Composition of the repository
-- Final_project_plant_leaves.jpynb: this is the MOST IMPORTANT FILE containing libraries, data download, data preprocessing, CNNs architecture, CNNs training and test, and evaluation metrics.
+- Project_Magnani_plant_leaves.jpynb: this file containins libraries, data download, data preprocessing, CNNs architecture, hyperparameter tuning, regularization.
 - Report_PlantLeaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
