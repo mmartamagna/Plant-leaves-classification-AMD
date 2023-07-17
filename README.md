@@ -1,4 +1,5 @@
 ## Convolutional  Neural Networks for the automated recognition of plant leaves images
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmartamagna/Plant-leaves-classification-AMD/blob/main/Project_Plant_Leaves_Magnani.ipynb)
 
 ### Student information
 - Marta Magnani (961071)
