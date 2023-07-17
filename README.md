@@ -18,5 +18,5 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 * OpenCV
 
 ### Composition of the repository
-- Project_Magnani_plant_leaves.jpynb: this file containins libraries, data download, data preprocessing, CNNs architecture, hyperparameter tuning, regularization.
+- Project_Plant_Leaves_Magnani.jpynb: this file containins libraries, data download, data preprocessing, CNNs architecture, hyperparameter tuning, regularization.
 - Report_PlantLeaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
