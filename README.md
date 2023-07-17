@@ -20,4 +20,4 @@ Project for the module **Algoritms for Massive Data** of the course Algoritms fo
 
 ### Composition of the repository
 - Project_Plant_Leaves_Magnani.jpynb: this file containins libraries, data download, data preprocessing, CNNs architecture, hyperparameter tuning, regularization.
-- Report_PlantLeaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
+- Report_Leaves_Magnani.pdf: LateX report containing all the theoretical details about the implemented CNNs and the comparable results.
